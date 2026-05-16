@@ -11,7 +11,7 @@
 export const studioConfig = {
   studioName: "AMASITECH Studio Hub",
   ownerName: "Masita",
-  whatsappNumber: "6281234567890", // Ganti dengan nomor WhatsApp aktif (gunakan format internasional 62...)
+  whatsappNumber: "6285815653619", // Ganti dengan nomor WhatsApp aktif (gunakan format internasional 62...)
   email: "studio@amasitech.com",
   socials: {
     instagram: "@masita.archi",
