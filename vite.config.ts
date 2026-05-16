@@ -15,7 +15,7 @@ export default defineConfig(({mode}) => {
         '@': path.resolve(__dirname, '.'),
       },
     },
-    // INI KUNCI UTAMANYA: Mengizinkan host Google Cloud Run agar tidak diblokir Vite 6
+    // INI YANG PALING PENTING: Mengizinkan host Cloud Run di file TypeScript
     preview: {
       allowedHosts: ['all']
     },
