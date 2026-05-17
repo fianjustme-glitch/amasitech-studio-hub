@@ -11,7 +11,7 @@
 export const studioConfig = {
   studioName: "AMASITECH Studio Hub",
   ownerName: "Masita",
-  whatsappNumber: "62895325003291", // Ganti dengan nomor WhatsApp aktif (gunakan format internasional 62...)
+  whatsappNumber: "6281234567890", // Ganti dengan nomor WhatsApp aktif (gunakan format internasional 62...)
   email: "studio@amasitech.com",
   socials: {
     instagram: "@masita.archi",
@@ -66,5 +66,11 @@ export const studioConfig = {
     { title: "3D Rendering", desc: "Visualisasi eksterior & interior" },
     { title: "Working Drawings (DED)", desc: "Penyusunan gambar teknis konstruksi" },
     { title: "Final Handover", desc: "Penyerahan seluruh dokumen blueprint" },
-  ]
+  ],
+
+  // Link Portal Client Default
+  portalLinks: {
+    googleDrive: "https://drive.google.com",
+    dropbox: "https://dropbox.com"
+  }
 };
