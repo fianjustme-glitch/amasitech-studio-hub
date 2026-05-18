@@ -29,7 +29,7 @@ export default function App() {
               </div>
               <div className="flex items-baseline gap-2">
                 <h1 className="font-bold text-lg leading-none uppercase tracking-tighter">AMASITECH</h1>
-                <span className="text-[10px] text-white/40 italic font-light lowercase">Studio Hub</span>
+                <span className="text-[10px] text-white/40 italic font-light lowercase">Hub Studio</span>
               </div>
             </div>
 

@@ -1,4 +1,4 @@
-# robots.txt for AMASITECH Studio Hub
+# robots.txt for AMASITECH Hub Studio
 User-agent: *
 Allow: /
 

@@ -18,7 +18,7 @@ export default function BriefForm() {
   };
 
   const generateBriefText = () => {
-    return `*HALO AMASITECH STUDIO HUB*%0A
+    return `*HALO AMASITECH HUB STUDIO*%0A
 *CLIENT BRIEF SUMMARY*%0A
 ----------------------------------%0A
 *Nama:* ${formData.name}%0A
@@ -28,7 +28,7 @@ export default function BriefForm() {
 *Gaya Desain:* ${formData.style}%0A
 *Catatan:* ${formData.notes || '-'}%0A
 ----------------------------------%0A
-_Dikirim via Studio Hub Dashboard_`;
+_Dikirim via Hub Studio Dashboard_`;
   };
 
   const handleWhatsApp = () => {
