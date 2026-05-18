@@ -1,0 +1,6 @@
+# robots.txt for AMASITECH Studio Hub
+User-agent: *
+Allow: /
+
+# Sitemap link (Ganti dengan domain asli kamu setelah beli domain)
+# Sitemap: https://your-domain.com/sitemap.xml
